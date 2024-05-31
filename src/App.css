@@ -1,0 +1,40 @@
+
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: rgb(215, 229, 156);
+  display: flex;
+  justify-content: center;
+  border: solid 1px;
+  align-items: center;
+  margin: 10px 0;
+  padding: 10px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+li input[type="checkbox"] {
+  margin-right: 10px;
+}
+
